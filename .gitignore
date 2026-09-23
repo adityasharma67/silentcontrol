@@ -1,0 +1,4 @@
+.venv/
+screenshare.pid
+__pycache__/
+*.py[cod]
